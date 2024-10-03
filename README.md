@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 II am currently working on improving my skills in programming and developing projects for the University of Granada.<br>👯 I’m looking to collaborate in projects that aims to bring wisdon<br>🤝 I’m looking for help with collaborative coding projects and enhancing my cybersecurity skills.<br>🌱 I’m currently learning advanced web development, cybersecurity practices, and cloud computing.<br>💬 Ask me about web development, cybersecurity, and efficient coding practices.
 
